@@ -1,0 +1,6 @@
+{
+  "name": "AdForge AI",
+  "description": "Production-ready multimodal creative studio connecting storyboarding, Nano Banana 2 Lite visual assets, Gemini Omni Flash video generation & conversational editing, and Lyria soundtracking into a continuous creative pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

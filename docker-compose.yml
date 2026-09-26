@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  adforge-studio:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - NODE_ENV=production
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - STORAGE_DIR=/data/storage
+      - DB_FILE=/data/adforge_db.json
+    volumes:
+      - adforge_data:/data
+    restart: unless-stopped
+
+volumes:
+  adforge_data:

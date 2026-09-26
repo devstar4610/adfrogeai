@@ -1,0 +1,326 @@
+{
+  "projects": {
+    "c5822962-677c-4be7-ab60-a505b92e91ae": {
+      "id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "title": "VoltX Electric Motorcycle Campaign",
+      "brief": "Create a cinematic 20-second advertisement for a futuristic electric motorcycle targeting young urban Indian riders.",
+      "target_audience": "Young urban Indian riders",
+      "duration": 20,
+      "visual_style": "Cinematic Futuristic Neo-Noir",
+      "aspect_ratio": "16:9",
+      "visual_bible": {
+        "characters": [
+          {
+            "name": "Kabir (The Rider)",
+            "description": "A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.",
+            "role": "Hero protagonist embodying futuristic confidence and effortless mastery."
+          }
+        ],
+        "products": [
+          {
+            "name": "VoltX Apex EV Motorcycle",
+            "description": "A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.",
+            "visual_features": "Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.",
+            "color": "Matte Stealth Graphite with Electric Cyber Cyan accents"
+          }
+        ],
+        "locations": [
+          {
+            "name": "Neo-Mumbai Coastal Flyover",
+            "description": "A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below.",
+            "atmosphere": "Dystopian luxury, humid mist, slick reflections, high-tech solitude."
+          },
+          {
+            "name": "Bandra-Worli Cyber Link Vista",
+            "description": "A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea.",
+            "atmosphere": "Vast, open, wind-swept, and intensely illuminated by neon urban gridlines."
+          }
+        ],
+        "visual_style": "Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.",
+        "color_palette": [
+          "#08090C",
+          "#00E5FF",
+          "#FF0055",
+          "#FF9100",
+          "#1F2430"
+        ],
+        "lighting_style": "Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.",
+        "camera_language": "Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.",
+        "environment": "Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings."
+      },
+      "created_at": "2026-09-26T07:37:26.243Z",
+      "updated_at": "2026-09-26T07:43:48.321Z",
+      "plan": {
+        "concept": "Awaken the Neon Pulse: A solitary rider ignites the midnight streets of Neo-Mumbai, transforming urban congestion into an electric flow of speed and silence with the VoltX.",
+        "target_audience": "Tech-forward, thrill-seeking young urban Indian riders aged 20-35 who crave sustainable high-performance mobility and bold aesthetics.",
+        "duration": 20,
+        "tone": "Electrifying, futuristic, sleek, cinematic, rebellious yet refined.",
+        "visual_style": "Cinematic Futuristic Neo-Noir with rain-slicked asphalt, sharp LED light streaks, high-contrast chiaroscuro, and anamorphic lens flares.",
+        "color_direction": "Deep obsidian black and wet charcoal contrasted with electric cyan, neon magenta, and molten amber streaks.",
+        "camera_language": "Dynamic high-speed tracking, low-angle anamorphic perspectives, sudden speed ramps, and fluid orbital motion.",
+        "music_direction": "Low-frequency atmospheric bass drone evolving into aggressive dark synthwave with traditional Indian percussion textures like heavy duff hits and metallic risers.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 3,
+            "title": "Ignition in the Shadows",
+            "description": "Close-up on an angular digital ignition keycard tapping the motorcycle tank. The VoltX system boots with a razor-thin neon cyan pulse illuminating wet carbon fiber.",
+            "subject": "VoltX handlebar cockpit and glowing digital interface",
+            "camera": "Extreme close-up on 50mm anamorphic lens with gentle forward dolly",
+            "lighting": "Moody low-key lighting with sudden cyan LED glow reflecting off wet matte surfaces",
+            "transition": "Quick snap zoom to black",
+            "energy_level": "low"
+          },
+          {
+            "scene_number": 2,
+            "duration": 4,
+            "title": "The Silent Launch",
+            "description": "Rider engages the throttle as the aerodynamic rear wheel grips wet asphalt. Water droplets vaporize in slow-motion under brilliant electric neon street reflections.",
+            "subject": "VoltX rear swingarm, glowing wheel hub, and rider silhouette",
+            "camera": "Ultra-low ground-skimming tracking shot on 24mm wide lens moving backward at high speed",
+            "lighting": "High-contrast rim lighting from neon street signs and wet asphalt bounce",
+            "transition": "Whip pan to the right",
+            "energy_level": "medium"
+          },
+          {
+            "scene_number": 3,
+            "duration": 5,
+            "title": "Neon Grid Slalom",
+            "description": "The VoltX cuts effortlessly through a futuristic rain-drenched flyover in Neo-Mumbai, weaving around glowing elevated metro pillars in high-speed kinetic motion.",
+            "subject": "Hero bike and rider banking deeply through high-speed turns",
+            "camera": "Pursuit vehicle crane shot swooping from top-down three-quarter angle to side profile with speed ramp",
+            "lighting": "Volumetric amber and cyan city haze with fast-moving overhead streetlamp strobing",
+            "transition": "Match cut on rider's visor",
+            "energy_level": "high"
+          },
+          {
+            "scene_number": 4,
+            "duration": 5,
+            "title": "Supersonic Glide",
+            "description": "The rider hits maximum acceleration across the iconic sea link bridge. Dual headlights slice the midnight fog as trailing particle trails streak across the frame.",
+            "subject": "Full three-quarter profile of VoltX slicing across the sea bridge horizon",
+            "camera": "High-speed side-tracking Russian arm shot stabilizing on the helmet before pulling out wide",
+            "lighting": "Cool moonlight fill balanced by hot magenta underglow and high-intensity twin LED headlights",
+            "transition": "Rapid flash cut on bass drop",
+            "energy_level": "climax"
+          },
+          {
+            "scene_number": 5,
+            "duration": 3,
+            "title": "The Electric Horizon",
+            "description": "The motorcycle comes to a crisp controlled stop overlooking the glowing metropolis skyline. The tail lights burn a signature dual-blade crimson as the VoltX emblem pulses.",
+            "subject": "VoltX hero stance with rider looking over the futuristic city",
+            "camera": "Low-angle heroic static shot slowly pushing in on 85mm telephoto lens",
+            "lighting": "Silhouette rim light from distant mega-city skyline glow with subtle red taillight fill",
+            "transition": "Fade to black with glowing title card",
+            "energy_level": "medium"
+          }
+        ]
+      },
+      "current_audio_version_id": "cee90460-1d3e-4667-8659-21e5b3442732",
+      "current_video_version_id": "0ea3530f-c138-413c-9ea8-c44d29acbb05"
+    }
+  },
+  "scenes": {
+    "22850127-62e5-4bd0-8973-fb9925516362": {
+      "id": "22850127-62e5-4bd0-8973-fb9925516362",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "scene_number": 1,
+      "title": "Ignition in the Shadows",
+      "duration": 3,
+      "description": "Close-up on an angular digital ignition keycard tapping the motorcycle tank. The VoltX system boots with a razor-thin neon cyan pulse illuminating wet carbon fiber.",
+      "subject": "VoltX handlebar cockpit and glowing digital interface",
+      "camera": "Extreme close-up on 50mm anamorphic lens with gentle forward dolly",
+      "lighting": "Moody low-key lighting with sudden cyan LED glow reflecting off wet matte surfaces",
+      "transition": "Quick snap zoom to black",
+      "energy_level": "low",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T07:37:51.999Z",
+      "updated_at": "2026-09-26T07:38:09.886Z",
+      "image_url": "/api/storage/images/921339b6-a329-4f23-a2db-026d75d22546.jpg",
+      "image_asset_id": "images/921339b6-a329-4f23-a2db-026d75d22546.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 1 - \"Ignition in the Shadows\"\nSubject: VoltX handlebar cockpit and glowing digital interface\nScene Action / Narrative: Close-up on an angular digital ignition keycard tapping the motorcycle tank. The VoltX system boots with a razor-thin neon cyan pulse illuminating wet carbon fiber.\nCamera Framing & Motion: Extreme close-up on 50mm anamorphic lens with gentle forward dolly\nLighting Design: Moody low-key lighting with sudden cyan LED glow reflecting off wet matte surfaces\nAtmospheric Energy: low\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "4e4a11a8-a181-4d2b-ad1e-7b53881fc993": {
+      "id": "4e4a11a8-a181-4d2b-ad1e-7b53881fc993",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "scene_number": 2,
+      "title": "The Silent Launch",
+      "duration": 4,
+      "description": "Rider engages the throttle as the aerodynamic rear wheel grips wet asphalt. Water droplets vaporize in slow-motion under brilliant electric neon street reflections.",
+      "subject": "VoltX rear swingarm, glowing wheel hub, and rider silhouette",
+      "camera": "Ultra-low ground-skimming tracking shot on 24mm wide lens moving backward at high speed",
+      "lighting": "High-contrast rim lighting from neon street signs and wet asphalt bounce",
+      "transition": "Whip pan to the right",
+      "energy_level": "medium",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T07:37:51.999Z",
+      "updated_at": "2026-09-26T07:38:39.763Z",
+      "image_url": "/api/storage/images/7ef18ee7-c3ab-4cde-9b20-dad2771a3ec9.jpg",
+      "image_asset_id": "images/7ef18ee7-c3ab-4cde-9b20-dad2771a3ec9.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 2 - \"The Silent Launch\"\nSubject: VoltX rear swingarm, glowing wheel hub, and rider silhouette\nScene Action / Narrative: Rider engages the throttle as the aerodynamic rear wheel grips wet asphalt. Water droplets vaporize in slow-motion under brilliant electric neon street reflections.\nCamera Framing & Motion: Ultra-low ground-skimming tracking shot on 24mm wide lens moving backward at high speed\nLighting Design: High-contrast rim lighting from neon street signs and wet asphalt bounce\nAtmospheric Energy: medium\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "3438aeb1-ba34-4de5-be0a-08b97d76cc1b": {
+      "id": "3438aeb1-ba34-4de5-be0a-08b97d76cc1b",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "scene_number": 3,
+      "title": "Neon Grid Slalom",
+      "duration": 5,
+      "description": "The VoltX cuts effortlessly through a futuristic rain-drenched flyover in Neo-Mumbai, weaving around glowing elevated metro pillars in high-speed kinetic motion.",
+      "subject": "Hero bike and rider banking deeply through high-speed turns",
+      "camera": "Pursuit vehicle crane shot swooping from top-down three-quarter angle to side profile with speed ramp",
+      "lighting": "Volumetric amber and cyan city haze with fast-moving overhead streetlamp strobing",
+      "transition": "Match cut on rider's visor",
+      "energy_level": "high",
+      "is_locked": false,
+      "status": "idle",
+      "created_at": "2026-09-26T07:37:51.999Z",
+      "updated_at": "2026-09-26T07:37:51.999Z"
+    },
+    "e6e6f7be-770a-416e-bd18-07b07ba652b5": {
+      "id": "e6e6f7be-770a-416e-bd18-07b07ba652b5",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "scene_number": 4,
+      "title": "Supersonic Glide",
+      "duration": 5,
+      "description": "The rider hits maximum acceleration across the iconic sea link bridge. Dual headlights slice the midnight fog as trailing particle trails streak across the frame.",
+      "subject": "Full three-quarter profile of VoltX slicing across the sea bridge horizon",
+      "camera": "High-speed side-tracking Russian arm shot stabilizing on the helmet before pulling out wide",
+      "lighting": "Cool moonlight fill balanced by hot magenta underglow and high-intensity twin LED headlights",
+      "transition": "Rapid flash cut on bass drop",
+      "energy_level": "climax",
+      "is_locked": false,
+      "status": "idle",
+      "created_at": "2026-09-26T07:37:51.999Z",
+      "updated_at": "2026-09-26T07:37:51.999Z"
+    },
+    "766a96d8-dcd5-48ba-a228-b05528d8de1c": {
+      "id": "766a96d8-dcd5-48ba-a228-b05528d8de1c",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "scene_number": 5,
+      "title": "The Electric Horizon",
+      "duration": 3,
+      "description": "The motorcycle comes to a crisp controlled stop overlooking the glowing metropolis skyline. The tail lights burn a signature dual-blade crimson as the VoltX emblem pulses.",
+      "subject": "VoltX hero stance with rider looking over the futuristic city",
+      "camera": "Low-angle heroic static shot slowly pushing in on 85mm telephoto lens",
+      "lighting": "Silhouette rim light from distant mega-city skyline glow with subtle red taillight fill",
+      "transition": "Fade to black with glowing title card",
+      "energy_level": "medium",
+      "is_locked": false,
+      "status": "idle",
+      "created_at": "2026-09-26T07:37:51.999Z",
+      "updated_at": "2026-09-26T07:37:51.999Z"
+    }
+  },
+  "video_versions": {
+    "8444724b-51f2-4195-8011-f183e4ef364f": {
+      "id": "8444724b-51f2-4195-8011-f183e4ef364f",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "version_number": 1,
+      "interaction_id": "v1_ChdWM2UzYXVlM0JxRGY0LUVQdF82bWlBOBIXVjNlM2F1ZTNCcURmNC1FUHRfNm1pQTg",
+      "user_instruction": "Initial approved storyboard video synthesis",
+      "video_url": "/api/storage/videos/8a61e0c5-7e3c-41d0-b0df-bd2c7b86bb28.mp4",
+      "video_asset_id": "videos/8a61e0c5-7e3c-41d0-b0df-bd2c7b86bb28.mp4",
+      "duration": 20,
+      "aspect_ratio": "16:9",
+      "model": "gemini-omni-1.1-flash",
+      "parameters": {
+        "aspect_ratio": "16:9",
+        "duration": 20,
+        "promptLength": 3900,
+        "referenceImagesCount": 2
+      },
+      "created_at": "2026-09-26T07:42:20.557Z"
+    },
+    "0ea3530f-c138-413c-9ea8-c44d29acbb05": {
+      "id": "0ea3530f-c138-413c-9ea8-c44d29acbb05",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "version_number": 2,
+      "parent_version_id": "8444724b-51f2-4195-8011-f183e4ef364f",
+      "interaction_id": "v1_ChdWM2UzYXVlM0JxRGY0LUVQdF82bWlBOBIXcjNlM2FvamZISUMyZzhVUG9maU51QUU",
+      "user_instruction": "Make scene 2 darker and give the camera a low-angle movement while keeping the motorcycle design unchanged.",
+      "video_url": "/api/storage/videos/8096f145-fb1d-4368-86d0-055cafe8666b.mp4",
+      "video_asset_id": "videos/8096f145-fb1d-4368-86d0-055cafe8666b.mp4",
+      "duration": 20,
+      "aspect_ratio": "16:9",
+      "model": "gemini-omni-1.1-flash",
+      "parameters": {
+        "parent_version_id": "8444724b-51f2-4195-8011-f183e4ef364f",
+        "instruction": "Make scene 2 darker and give the camera a low-angle movement while keeping the motorcycle design unchanged.",
+        "target_scene": 2
+      },
+      "created_at": "2026-09-26T07:43:48.320Z"
+    }
+  },
+  "video_edits": {
+    "856fe5a6-b985-4b5f-87da-0ef10ff7867b": {
+      "id": "856fe5a6-b985-4b5f-87da-0ef10ff7867b",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "video_version_id": "0ea3530f-c138-413c-9ea8-c44d29acbb05",
+      "instruction": "Make scene 2 darker and give the camera a low-angle movement while keeping the motorcycle design unchanged.",
+      "target_scope": "scene",
+      "target_scene_number": 2,
+      "ai_interpretation": "Updated scene execution according to directive: \"Make scene 2 darker and give the camera a low-angle movement while keeping the motorcycle design unchanged.\", preserving hero product aesthetics and timeline pacing.",
+      "timestamp": "2026-09-26T07:43:48.321Z"
+    }
+  },
+  "audio_versions": {
+    "d34d11bf-fa42-4611-8ff9-3a1037094070": {
+      "id": "d34d11bf-fa42-4611-8ff9-3a1037094070",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "version_number": 1,
+      "user_instruction": "Build tension during ignition then punchy synth pulse for the launch",
+      "mood": "Cinematic Futuristic",
+      "energy_level": "high",
+      "audio_url": "/api/storage/audio/e65a0a2b-1f2d-4cb1-a455-1cd4fe5fa211.mp3",
+      "audio_asset_id": "audio/e65a0a2b-1f2d-4cb1-a455-1cd4fe5fa211.mp3",
+      "duration": 20,
+      "model": "lyria-3-clip-preview",
+      "parameters": {
+        "mood": "Cinematic Futuristic",
+        "energy_level": "high",
+        "user_instruction": "Build tension during ignition then punchy synth pulse for the launch",
+        "parent_version_id": null
+      },
+      "created_at": "2026-09-26T07:39:11.306Z"
+    },
+    "cee90460-1d3e-4667-8659-21e5b3442732": {
+      "id": "cee90460-1d3e-4667-8659-21e5b3442732",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "version_number": 2,
+      "parent_version_id": "d34d11bf-fa42-4611-8ff9-3a1037094070",
+      "user_instruction": "Make the music more energetic during the acceleration scene.",
+      "mood": "Cinematic Futuristic",
+      "energy_level": "ultra",
+      "audio_url": "/api/storage/audio/b31d1cc9-57ce-4f13-baf9-00e1ec8592e1.mp3",
+      "audio_asset_id": "audio/b31d1cc9-57ce-4f13-baf9-00e1ec8592e1.mp3",
+      "duration": 20,
+      "model": "lyria-3-clip-preview",
+      "parameters": {
+        "mood": "Cinematic Futuristic",
+        "energy_level": "ultra",
+        "user_instruction": "Make the music more energetic during the acceleration scene.",
+        "parent_version_id": "d34d11bf-fa42-4611-8ff9-3a1037094070"
+      },
+      "created_at": "2026-09-26T07:39:49.710Z"
+    }
+  },
+  "exports": {
+    "d09081bc-70de-4139-8025-3cc6501725d3": {
+      "id": "d09081bc-70de-4139-8025-3cc6501725d3",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "video_version_id": "0ea3530f-c138-413c-9ea8-c44d29acbb05",
+      "audio_version_id": "cee90460-1d3e-4667-8659-21e5b3442732",
+      "export_url": "/api/storage/exports/export_1790408640739_e5mnm.mp4",
+      "thumbnail_url": "/api/storage/exports/thumb_1790408640739_huhnp.jpg",
+      "status": "completed",
+      "duration": 20,
+      "resolution": "1080p",
+      "file_size": 5949696,
+      "created_at": "2026-09-26T07:44:23.374Z"
+    }
+  },
+  "jobs": {}
+}
