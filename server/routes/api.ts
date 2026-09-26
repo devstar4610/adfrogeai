@@ -5,6 +5,7 @@
  * Lyria adaptive soundtrack scoring, and FFmpeg media composition.
  */
 import { Router, Request, Response } from 'express';
+import fs from 'fs';
 import crypto from 'crypto';
 import { db, Project, Scene, VideoVersion, AudioVersion, ExportRecord, VideoEdit } from '../database';
 import { plannerProvider } from '../providers/planner';
@@ -36,17 +37,25 @@ apiRouter.get('/health', (_req: Request, res: Response) => {
 });
 
 // ==========================================
-// Storage Serving
+// Storage Serving (Streaming with Range Support)
 // ==========================================
-apiRouter.get('/storage/:subfolder/:filename', async (req: Request, res: Response) => {
+apiRouter.get('/storage/:subfolder/:filename', (req: Request, res: Response) => {
   try {
     const key = `${req.params.subfolder}/${req.params.filename}`;
-    const { buffer, mimeType } = await storage.getBuffer(key);
-    res.setHeader('Content-Type', mimeType);
+    const filePath = storage.getFilePath(key);
+    if (!fs.existsSync(filePath)) {
+      return res.status(404).json({ error: 'Asset not found' });
+    }
     res.setHeader('Cache-Control', 'public, max-age=31536000, immutable');
-    res.send(buffer);
+    res.sendFile(filePath, { acceptRanges: true }, (err) => {
+      if (err && !res.headersSent) {
+        res.status(500).json({ error: 'Failed to serve asset', details: err.message });
+      }
+    });
   } catch (err: any) {
-    res.status(404).json({ error: 'Asset not found', details: err.message });
+    if (!res.headersSent) {
+      res.status(404).json({ error: 'Asset not found', details: err.message });
+    }
   }
 });
 

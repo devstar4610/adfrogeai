@@ -49,7 +49,7 @@
         "environment": "Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings."
       },
       "created_at": "2026-09-26T07:37:26.243Z",
-      "updated_at": "2026-09-26T07:43:48.321Z",
+      "updated_at": "2026-09-26T09:16:18.194Z",
       "plan": {
         "concept": "Awaken the Neon Pulse: A solitary rider ignites the midnight streets of Neo-Mumbai, transforming urban congestion into an electric flow of speed and silence with the VoltX.",
         "target_audience": "Tech-forward, thrill-seeking young urban Indian riders aged 20-35 who crave sustainable high-performance mobility and bold aesthetics.",
@@ -117,8 +117,150 @@
           }
         ]
       },
-      "current_audio_version_id": "cee90460-1d3e-4667-8659-21e5b3442732",
+      "current_audio_version_id": "7c9c9c77-794d-40fd-9a61-4e974cf5e8a6",
       "current_video_version_id": "0ea3530f-c138-413c-9ea8-c44d29acbb05"
+    },
+    "61749fd0-9805-443c-9d2c-25f18343b269": {
+      "id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "title": "escape north",
+      "brief": "Create a 25-second cinematic travel advertisement for a premium Meghalaya travel experience called \"ESCAPE NORTH\".\n\nThe advertisement should tell a visual story about escaping the noise and routine of city life and discovering the peaceful, adventurous landscapes of Meghalaya.\n\nScene 1 — The Escape\n\nBegin in a crowded modern city during a rainy evening. Show the protagonist inside a vehicle, looking through the window at the busy streets. Gradually transition from the urban environment toward the mountains.\n\nScene 2 — Into the Mountains\n\nShow the journey through winding mountain roads surrounded by dense green forests and mist. Use wide landscape shots followed by smooth tracking shots to communicate the feeling of leaving the city behind.\n\nScene 3 — The Waterfall\n\nShow the travelers arriving at a massive waterfall surrounded by lush vegetation. Capture realistic flowing water, mist, droplets, and the scale of the landscape. Use slow cinematic camera movement.\n\nScene 4 — The Adventure\n\nShow the travelers exploring the natural environment. Include walking through a forest trail, crossing a natural bridge, taking photographs, and discovering the surrounding landscape. Keep the experience authentic and immersive.\n\nScene 5 — The Moment\n\nEnd at a breathtaking mountain viewpoint. The travelers stand quietly overlooking the valleys while clouds and mist move through the mountains. Slowly pull the camera away to reveal the vast landscape.\n\nThe visual storytelling should progress from crowded and energetic to peaceful and emotionally immersive.\n\nUse realistic environmental details, natural human movement, atmospheric depth, believable weather, realistic water and mist, and cinematic camera transitions.\n\nThe soundtrack should begin quietly and atmospherically, gradually build during the journey and adventure, reach an emotional peak during the final landscape reveal, and resolve into a peaceful ending.\n\nEnd the advertisement with the campaign message:\n\n\"ESCAPE NORTH\"\n\n\"Some places don't need an invitation.\"",
+      "target_audience": "Young Indian travelers, college students, and young professionals interested in adventure, road trips, photography, nature, and travel experiences.",
+      "duration": 20,
+      "visual_style": "Photorealistic Cinematic Travel Film, Immersive, Emotional, Premium, Natural Monsoon Atmosphere",
+      "aspect_ratio": "16:9",
+      "brand_info": "ESCAPE NORTH — Premium Meghalaya Travel Experience",
+      "visual_bible": {
+        "characters": [
+          {
+            "name": "Aarav",
+            "description": "Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.",
+            "role": "The thoughtful city escapee whose perspective anchors the narrative transition."
+          },
+          {
+            "name": "Maya",
+            "description": "Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.",
+            "role": "The adventurous companion seeking tactile, real-world connection and spontaneous discovery."
+          }
+        ],
+        "products": [
+          {
+            "name": "ESCAPE NORTH Travel Experience",
+            "description": "Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.",
+            "visual_features": "Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.",
+            "color": "Forest Slate, Rust Terracotta, and Mist White"
+          }
+        ],
+        "locations": [
+          {
+            "name": "Urban Congestion Corridor",
+            "description": "Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows.",
+            "atmosphere": "Claustrophobic, relentless, damp, and hurried."
+          },
+          {
+            "name": "East Khasi Hills Serpentine Pass",
+            "description": "Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees.",
+            "atmosphere": "Expansive, purifying, and dramatic."
+          },
+          {
+            "name": "Nohkalikai Gorge & Plunge Pool",
+            "description": "Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices.",
+            "atmosphere": "Majestic, thunderous, and awe-inspiring."
+          },
+          {
+            "name": "Nongriat Living Root Bridge Trail",
+            "description": "Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns.",
+            "atmosphere": "Timeless, organic, and deeply grounded."
+          },
+          {
+            "name": "Laitlum Canyons Ridge",
+            "description": "Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys.",
+            "atmosphere": "Transcendent, silent, peaceful, and sublime."
+          }
+        ],
+        "visual_style": "High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.",
+        "color_palette": [
+          "#121A16",
+          "#2D4F3B",
+          "#487968",
+          "#8BA499",
+          "#D87342",
+          "#E2ECE9"
+        ],
+        "lighting_style": "Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.",
+        "camera_language": "Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.",
+        "environment": "Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks."
+      },
+      "created_at": "2026-09-26T09:01:59.547Z",
+      "updated_at": "2026-09-26T09:13:25.319Z",
+      "plan": {
+        "concept": "A sensory, emotional journey charting the transition from suffocating urban rain and chaos into the pristine, misty wonderland of Meghalaya, culminating in an awe-inspiring communion with nature.",
+        "target_audience": "Urban young professionals, creative nomads, and adventurous travelers aged 21-35 seeking mindful escapes, raw landscapes, and authentic off-grid discovery.",
+        "duration": 20,
+        "tone": "Contemplative, evocative, invigorating, and deeply cinematic.",
+        "visual_style": "High-end photorealistic 35mm anamorphic travel cinema with organic rain textures, volumetric cloud inversion, rich emerald foliage, and gentle warm human accents.",
+        "color_direction": "Shift from cold urban charcoal, tungsten glare, and saturated neon smear to organic monsoon tones of deep moss green, slate mist, turquoise mountain water, and warm golden hour haze.",
+        "camera_language": "Deliberate anamorphic framing, fluid gimbal glides, intimate shallow-depth portraiture, and expansive wide-angle vistas that accentuate human scale against vast nature.",
+        "music_direction": "Subtle ambient rain and muffled low frequencies building into sweeping acoustic strings, soaring atmospheric synthesizers, and an emotionally resonant, breath-like acoustic resolution.",
+        "scenes": [
+          {
+            "scene_number": 1,
+            "duration": 3.5,
+            "title": "The Confinement of Noise",
+            "description": "Rain streaks down the cold glass of a car window in a congested metropolitan street illuminated by red tail lights and blurred urban billboards. The protagonist's reflection merges with the droplets before glancing toward the rearview mirror where city lights dissolve into deep shadowy fog.",
+            "subject": "Protagonist inside a rideshare vehicle gazing yearningly out at blurred city congestion.",
+            "camera": "Close-up on 50mm anamorphic lens with shallow depth of field, gentle handheld drift.",
+            "lighting": "Low-key exterior tungsten reflections mixed with moody cool interior ambient shadows.",
+            "transition": "Match cut from streaking glass raindrops to moisture on windshield wipers in deep forest mist.",
+            "energy_level": "low"
+          },
+          {
+            "scene_number": 2,
+            "duration": 4,
+            "title": "Ascent Into the Fog",
+            "description": "An open road cuts through emerald hilltops enveloped in dense swirling monsoon mist. A 4x4 travels smoothly along the asphalt hairpin bends as lush pinewoods and wet ferns flank the journey into Meghalaya.",
+            "subject": "Sleek off-road vehicle navigating serpentine mountain passes framed by towering green slopes.",
+            "camera": "High-angle sweeping drone shot descending into a lateral tracking shot on 35mm wide lens.",
+            "lighting": "Diffused overcast daylight with soft volumetric shafts filtering through dense fog.",
+            "transition": "Fluid whip pan into cascading water spray.",
+            "energy_level": "medium"
+          },
+          {
+            "scene_number": 3,
+            "duration": 4,
+            "title": "The Roar of Living Water",
+            "description": "The travelers arrive beneath a colossal roaring waterfall plunging into a crystalline turquoise plunge pool. Slow-motion droplets catch the soft daylight as spray billows across moss-covered boulders, instilling immediate awe.",
+            "subject": "Travelers standing in reverence at the base of Nohkalikai Falls enveloped in misty spray.",
+            "camera": "Low-angle slow tracking shot on 28mm lens moving smoothly along the edge of the turquoise pool.",
+            "lighting": "Natural ambient daylight balanced with luminous water highlights and deep shadow crevasses.",
+            "transition": "Quick cross dissolve through rising mist clouds.",
+            "energy_level": "medium"
+          },
+          {
+            "scene_number": 4,
+            "duration": 4.5,
+            "title": "Living Bridges and Ancient Earth",
+            "description": "The protagonists trek across an ancient living root bridge woven seamlessly over a sparkling river. One traveler lifts a vintage 35mm camera to capture candid smiles while fingertips graze wet lichens and droplets hanging from tree canopies.",
+            "subject": "Adventurers traversing a living root bridge deep within Cherrapunji jungle foliage.",
+            "camera": "Medium tracking shot following footsteps across braided roots, transitioning to an intimate waist-level shot.",
+            "lighting": "Dappled canopy daylight with gentle rim lighting on rain jackets and lush vegetation.",
+            "transition": "Fast motion pan upwards following rising clouds into open sky.",
+            "energy_level": "high"
+          },
+          {
+            "scene_number": 5,
+            "duration": 4,
+            "title": "The Endless Horizon",
+            "description": "The travelers stand perched on a panoramic mountain precipice above a vast valley filled with moving cloud blankets. The camera slowly cranes back and rises, revealing their minuscule silhouette against the sublime Meghalaya landscape as the brand typography emerges.",
+            "subject": "Silhouetted travelers on the cliff edge looking out over the expansive sea of clouds.",
+            "camera": "Slow backward crane pullback pulling out to an ultra-wide panoramic vista.",
+            "lighting": "Ethereal golden-hour glow breaking through the cloud line with deep twilight blue valley beneath.",
+            "transition": "Slow fade to elegant minimal slate featuring typography: ESCAPE NORTH.",
+            "energy_level": "climax"
+          }
+        ]
+      },
+      "current_video_version_id": "f02e9829-31b8-45a2-8149-afdaefa0cdc7",
+      "current_audio_version_id": "6ce663ca-93af-45af-9ba0-9bf596db6dc7"
     }
   },
   "scenes": {
@@ -137,9 +279,9 @@
       "is_locked": false,
       "status": "completed",
       "created_at": "2026-09-26T07:37:51.999Z",
-      "updated_at": "2026-09-26T07:38:09.886Z",
-      "image_url": "/api/storage/images/921339b6-a329-4f23-a2db-026d75d22546.jpg",
-      "image_asset_id": "images/921339b6-a329-4f23-a2db-026d75d22546.jpg",
+      "updated_at": "2026-09-26T08:45:53.272Z",
+      "image_url": "/api/storage/images/b8ad35a3-5ff1-4843-993d-613fdd570171.jpg",
+      "image_asset_id": "images/b8ad35a3-5ff1-4843-993d-613fdd570171.jpg",
       "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 1 - \"Ignition in the Shadows\"\nSubject: VoltX handlebar cockpit and glowing digital interface\nScene Action / Narrative: Close-up on an angular digital ignition keycard tapping the motorcycle tank. The VoltX system boots with a razor-thin neon cyan pulse illuminating wet carbon fiber.\nCamera Framing & Motion: Extreme close-up on 50mm anamorphic lens with gentle forward dolly\nLighting Design: Moody low-key lighting with sudden cyan LED glow reflecting off wet matte surfaces\nAtmospheric Energy: low\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
     },
     "4e4a11a8-a181-4d2b-ad1e-7b53881fc993": {
@@ -157,9 +299,9 @@
       "is_locked": false,
       "status": "completed",
       "created_at": "2026-09-26T07:37:51.999Z",
-      "updated_at": "2026-09-26T07:38:39.763Z",
-      "image_url": "/api/storage/images/7ef18ee7-c3ab-4cde-9b20-dad2771a3ec9.jpg",
-      "image_asset_id": "images/7ef18ee7-c3ab-4cde-9b20-dad2771a3ec9.jpg",
+      "updated_at": "2026-09-26T08:45:56.811Z",
+      "image_url": "/api/storage/images/8dfb432d-a1a0-4998-8d39-2ab1a95ec635.jpg",
+      "image_asset_id": "images/8dfb432d-a1a0-4998-8d39-2ab1a95ec635.jpg",
       "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 2 - \"The Silent Launch\"\nSubject: VoltX rear swingarm, glowing wheel hub, and rider silhouette\nScene Action / Narrative: Rider engages the throttle as the aerodynamic rear wheel grips wet asphalt. Water droplets vaporize in slow-motion under brilliant electric neon street reflections.\nCamera Framing & Motion: Ultra-low ground-skimming tracking shot on 24mm wide lens moving backward at high speed\nLighting Design: High-contrast rim lighting from neon street signs and wet asphalt bounce\nAtmospheric Energy: medium\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
     },
     "3438aeb1-ba34-4de5-be0a-08b97d76cc1b": {
@@ -175,9 +317,12 @@
       "transition": "Match cut on rider's visor",
       "energy_level": "high",
       "is_locked": false,
-      "status": "idle",
+      "status": "completed",
       "created_at": "2026-09-26T07:37:51.999Z",
-      "updated_at": "2026-09-26T07:37:51.999Z"
+      "updated_at": "2026-09-26T08:46:00.176Z",
+      "image_url": "/api/storage/images/d36a60f1-28a2-4c0c-81f2-a1c4802c6be6.jpg",
+      "image_asset_id": "images/d36a60f1-28a2-4c0c-81f2-a1c4802c6be6.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 3 - \"Neon Grid Slalom\"\nSubject: Hero bike and rider banking deeply through high-speed turns\nScene Action / Narrative: The VoltX cuts effortlessly through a futuristic rain-drenched flyover in Neo-Mumbai, weaving around glowing elevated metro pillars in high-speed kinetic motion.\nCamera Framing & Motion: Pursuit vehicle crane shot swooping from top-down three-quarter angle to side profile with speed ramp\nLighting Design: Volumetric amber and cyan city haze with fast-moving overhead streetlamp strobing\nAtmospheric Energy: high\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
     },
     "e6e6f7be-770a-416e-bd18-07b07ba652b5": {
       "id": "e6e6f7be-770a-416e-bd18-07b07ba652b5",
@@ -192,9 +337,12 @@
       "transition": "Rapid flash cut on bass drop",
       "energy_level": "climax",
       "is_locked": false,
-      "status": "idle",
+      "status": "completed",
       "created_at": "2026-09-26T07:37:51.999Z",
-      "updated_at": "2026-09-26T07:37:51.999Z"
+      "updated_at": "2026-09-26T08:46:03.393Z",
+      "image_url": "/api/storage/images/aeb61eb3-2c39-4998-9c3f-fa8543cf908d.jpg",
+      "image_asset_id": "images/aeb61eb3-2c39-4998-9c3f-fa8543cf908d.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 4 - \"Supersonic Glide\"\nSubject: Full three-quarter profile of VoltX slicing across the sea bridge horizon\nScene Action / Narrative: The rider hits maximum acceleration across the iconic sea link bridge. Dual headlights slice the midnight fog as trailing particle trails streak across the frame.\nCamera Framing & Motion: High-speed side-tracking Russian arm shot stabilizing on the helmet before pulling out wide\nLighting Design: Cool moonlight fill balanced by hot magenta underglow and high-intensity twin LED headlights\nAtmospheric Energy: climax\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
     },
     "766a96d8-dcd5-48ba-a228-b05528d8de1c": {
       "id": "766a96d8-dcd5-48ba-a228-b05528d8de1c",
@@ -209,9 +357,112 @@
       "transition": "Fade to black with glowing title card",
       "energy_level": "medium",
       "is_locked": false,
-      "status": "idle",
+      "status": "completed",
       "created_at": "2026-09-26T07:37:51.999Z",
-      "updated_at": "2026-09-26T07:37:51.999Z"
+      "updated_at": "2026-09-26T08:46:06.678Z",
+      "image_url": "/api/storage/images/6feae83f-3007-4c36-867f-c0d71c0a5d98.jpg",
+      "image_asset_id": "images/6feae83f-3007-4c36-867f-c0d71c0a5d98.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: Futuristic Indian Cyberpunk / Neo-Noir realism; textured, moisture-laden surfaces, deep shadows, crisp edge highlights, and high visual density without clutter.\nColor Direction: #08090C, #00E5FF, #FF0055, #FF9100, #1F2430\nLighting Architecture: Low-key cinematic chiaroscuro featuring strong edge/rim lighting, volumetric fog diffusion, specular wet-ground reflections, and motivated neon ambient spill.\nCamera Language: Cinema-grade 2.39:1 widescreen anamorphic capture, continuous fluid motion, aggressive low-angle tracks, deliberate speed ramping between 120fps slow-motion and real-time punch.\nGlobal Environment: Rain-slicked midnight asphalt, warm coastal drizzle, floating atmospheric moisture, towering glass-and-steel architectural megaliths with glowing bilingual digital hoardings.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"VoltX Apex EV Motorcycle\". Details: A next-generation electric hyper-naked streetfighter motorcycle featuring sharp chiseled fairings, an integrated monocoque frame, and an exposed cantilever rear suspension.. Visual Features: Split signature dual-blade LED headlights, interactive cyan battery telemetry screen, illuminated aerodynamic side vents, hubless rear wheel element, and forged carbon fiber accents.. Color: Matte Stealth Graphite with Electric Cyber Cyan accents.\n- Character: \"Kabir (The Rider)\". Description: A charismatic urban Indian rider in his mid-20s, athletic frame, wearing a matte black modular aerodynamic helmet with a mirrored iridescent visor, sleek armored techwear jacket with subtle reflective accents, and weather-resistant dark tactical trousers.. Role: Hero protagonist embodying futuristic confidence and effortless mastery..\n- Key Environment: \"Neo-Mumbai Coastal Flyover\". Atmosphere: Dystopian luxury, humid mist, slick reflections, high-tech solitude.. Details: A futuristic elevated coastal highway flanked by monolithic illuminated architectural arches, rain-glistening tarmac, and blurred city skyscrapers reflecting in the dark sea below..\n- Key Environment: \"Bandra-Worli Cyber Link Vista\". Atmosphere: Vast, open, wind-swept, and intensely illuminated by neon urban gridlines.. Details: A wide sweeping cable-stayed bridge reimagined with towering neon-lit structural cables and high-altitude mist rolling in from the Arabian Sea..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 5 - \"The Electric Horizon\"\nSubject: VoltX hero stance with rider looking over the futuristic city\nScene Action / Narrative: The motorcycle comes to a crisp controlled stop overlooking the glowing metropolis skyline. The tail lights burn a signature dual-blade crimson as the VoltX emblem pulses.\nCamera Framing & Motion: Low-angle heroic static shot slowly pushing in on 85mm telephoto lens\nLighting Design: Silhouette rim light from distant mega-city skyline glow with subtle red taillight fill\nAtmospheric Energy: medium\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "7a231a6d-be2f-48c0-8168-6f52cfd69864": {
+      "id": "7a231a6d-be2f-48c0-8168-6f52cfd69864",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "scene_number": 1,
+      "title": "The Confinement of Noise",
+      "duration": 3.5,
+      "description": "Rain streaks down the cold glass of a car window in a congested metropolitan street illuminated by red tail lights and blurred urban billboards. The protagonist's reflection merges with the droplets before glancing toward the rearview mirror where city lights dissolve into deep shadowy fog.",
+      "subject": "Protagonist inside a rideshare vehicle gazing yearningly out at blurred city congestion.",
+      "camera": "Close-up on 50mm anamorphic lens with shallow depth of field, gentle handheld drift.",
+      "lighting": "Low-key exterior tungsten reflections mixed with moody cool interior ambient shadows.",
+      "transition": "Match cut from streaking glass raindrops to moisture on windshield wipers in deep forest mist.",
+      "energy_level": "low",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T09:02:10.560Z",
+      "updated_at": "2026-09-26T09:08:58.479Z",
+      "image_url": "/api/storage/images/652ca535-6525-4346-ac10-e64957ca2c23.jpg",
+      "image_asset_id": "images/652ca535-6525-4346-ac10-e64957ca2c23.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.\nColor Direction: #121A16, #2D4F3B, #487968, #8BA499, #D87342, #E2ECE9\nLighting Architecture: Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.\nCamera Language: Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.\nGlobal Environment: Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"ESCAPE NORTH Travel Experience\". Details: Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.. Visual Features: Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.. Color: Forest Slate, Rust Terracotta, and Mist White.\n- Character: \"Aarav\". Description: Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.. Role: The thoughtful city escapee whose perspective anchors the narrative transition..\n- Character: \"Maya\". Description: Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.. Role: The adventurous companion seeking tactile, real-world connection and spontaneous discovery..\n- Key Environment: \"Urban Congestion Corridor\". Atmosphere: Claustrophobic, relentless, damp, and hurried.. Details: Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows..\n- Key Environment: \"East Khasi Hills Serpentine Pass\". Atmosphere: Expansive, purifying, and dramatic.. Details: Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees..\n- Key Environment: \"Nohkalikai Gorge & Plunge Pool\". Atmosphere: Majestic, thunderous, and awe-inspiring.. Details: Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices..\n- Key Environment: \"Nongriat Living Root Bridge Trail\". Atmosphere: Timeless, organic, and deeply grounded.. Details: Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns..\n- Key Environment: \"Laitlum Canyons Ridge\". Atmosphere: Transcendent, silent, peaceful, and sublime.. Details: Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 1 - \"The Confinement of Noise\"\nSubject: Protagonist inside a rideshare vehicle gazing yearningly out at blurred city congestion.\nScene Action / Narrative: Rain streaks down the cold glass of a car window in a congested metropolitan street illuminated by red tail lights and blurred urban billboards. The protagonist's reflection merges with the droplets before glancing toward the rearview mirror where city lights dissolve into deep shadowy fog.\nCamera Framing & Motion: Close-up on 50mm anamorphic lens with shallow depth of field, gentle handheld drift.\nLighting Design: Low-key exterior tungsten reflections mixed with moody cool interior ambient shadows.\nAtmospheric Energy: low\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "5621a175-9318-4d56-8c8e-3fe9b4ab1d35": {
+      "id": "5621a175-9318-4d56-8c8e-3fe9b4ab1d35",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "scene_number": 2,
+      "title": "Ascent Into the Fog",
+      "duration": 4,
+      "description": "An open road cuts through emerald hilltops enveloped in dense swirling monsoon mist. A 4x4 travels smoothly along the asphalt hairpin bends as lush pinewoods and wet ferns flank the journey into Meghalaya.",
+      "subject": "Sleek off-road vehicle navigating serpentine mountain passes framed by towering green slopes.",
+      "camera": "High-angle sweeping drone shot descending into a lateral tracking shot on 35mm wide lens.",
+      "lighting": "Diffused overcast daylight with soft volumetric shafts filtering through dense fog.",
+      "transition": "Fluid whip pan into cascading water spray.",
+      "energy_level": "medium",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T09:02:10.560Z",
+      "updated_at": "2026-09-26T09:09:01.834Z",
+      "image_url": "/api/storage/images/3944f34d-1cd3-4862-a209-79ae7c9bda1d.jpg",
+      "image_asset_id": "images/3944f34d-1cd3-4862-a209-79ae7c9bda1d.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.\nColor Direction: #121A16, #2D4F3B, #487968, #8BA499, #D87342, #E2ECE9\nLighting Architecture: Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.\nCamera Language: Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.\nGlobal Environment: Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"ESCAPE NORTH Travel Experience\". Details: Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.. Visual Features: Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.. Color: Forest Slate, Rust Terracotta, and Mist White.\n- Character: \"Aarav\". Description: Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.. Role: The thoughtful city escapee whose perspective anchors the narrative transition..\n- Character: \"Maya\". Description: Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.. Role: The adventurous companion seeking tactile, real-world connection and spontaneous discovery..\n- Key Environment: \"Urban Congestion Corridor\". Atmosphere: Claustrophobic, relentless, damp, and hurried.. Details: Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows..\n- Key Environment: \"East Khasi Hills Serpentine Pass\". Atmosphere: Expansive, purifying, and dramatic.. Details: Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees..\n- Key Environment: \"Nohkalikai Gorge & Plunge Pool\". Atmosphere: Majestic, thunderous, and awe-inspiring.. Details: Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices..\n- Key Environment: \"Nongriat Living Root Bridge Trail\". Atmosphere: Timeless, organic, and deeply grounded.. Details: Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns..\n- Key Environment: \"Laitlum Canyons Ridge\". Atmosphere: Transcendent, silent, peaceful, and sublime.. Details: Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 2 - \"Ascent Into the Fog\"\nSubject: Sleek off-road vehicle navigating serpentine mountain passes framed by towering green slopes.\nScene Action / Narrative: An open road cuts through emerald hilltops enveloped in dense swirling monsoon mist. A 4x4 travels smoothly along the asphalt hairpin bends as lush pinewoods and wet ferns flank the journey into Meghalaya.\nCamera Framing & Motion: High-angle sweeping drone shot descending into a lateral tracking shot on 35mm wide lens.\nLighting Design: Diffused overcast daylight with soft volumetric shafts filtering through dense fog.\nAtmospheric Energy: medium\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "4034c3ce-f5d8-4cc6-b5f7-472f17c9e2c9": {
+      "id": "4034c3ce-f5d8-4cc6-b5f7-472f17c9e2c9",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "scene_number": 3,
+      "title": "The Roar of Living Water",
+      "duration": 4,
+      "description": "The travelers arrive beneath a colossal roaring waterfall plunging into a crystalline turquoise plunge pool. Slow-motion droplets catch the soft daylight as spray billows across moss-covered boulders, instilling immediate awe.",
+      "subject": "Travelers standing in reverence at the base of Nohkalikai Falls enveloped in misty spray.",
+      "camera": "Low-angle slow tracking shot on 28mm lens moving smoothly along the edge of the turquoise pool.",
+      "lighting": "Natural ambient daylight balanced with luminous water highlights and deep shadow crevasses.",
+      "transition": "Quick cross dissolve through rising mist clouds.",
+      "energy_level": "medium",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T09:02:10.560Z",
+      "updated_at": "2026-09-26T09:09:04.878Z",
+      "image_url": "/api/storage/images/1498ab0b-3189-49c7-a334-e6b8d19d09f7.jpg",
+      "image_asset_id": "images/1498ab0b-3189-49c7-a334-e6b8d19d09f7.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.\nColor Direction: #121A16, #2D4F3B, #487968, #8BA499, #D87342, #E2ECE9\nLighting Architecture: Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.\nCamera Language: Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.\nGlobal Environment: Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"ESCAPE NORTH Travel Experience\". Details: Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.. Visual Features: Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.. Color: Forest Slate, Rust Terracotta, and Mist White.\n- Character: \"Aarav\". Description: Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.. Role: The thoughtful city escapee whose perspective anchors the narrative transition..\n- Character: \"Maya\". Description: Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.. Role: The adventurous companion seeking tactile, real-world connection and spontaneous discovery..\n- Key Environment: \"Urban Congestion Corridor\". Atmosphere: Claustrophobic, relentless, damp, and hurried.. Details: Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows..\n- Key Environment: \"East Khasi Hills Serpentine Pass\". Atmosphere: Expansive, purifying, and dramatic.. Details: Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees..\n- Key Environment: \"Nohkalikai Gorge & Plunge Pool\". Atmosphere: Majestic, thunderous, and awe-inspiring.. Details: Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices..\n- Key Environment: \"Nongriat Living Root Bridge Trail\". Atmosphere: Timeless, organic, and deeply grounded.. Details: Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns..\n- Key Environment: \"Laitlum Canyons Ridge\". Atmosphere: Transcendent, silent, peaceful, and sublime.. Details: Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 3 - \"The Roar of Living Water\"\nSubject: Travelers standing in reverence at the base of Nohkalikai Falls enveloped in misty spray.\nScene Action / Narrative: The travelers arrive beneath a colossal roaring waterfall plunging into a crystalline turquoise plunge pool. Slow-motion droplets catch the soft daylight as spray billows across moss-covered boulders, instilling immediate awe.\nCamera Framing & Motion: Low-angle slow tracking shot on 28mm lens moving smoothly along the edge of the turquoise pool.\nLighting Design: Natural ambient daylight balanced with luminous water highlights and deep shadow crevasses.\nAtmospheric Energy: medium\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "79c4107e-1b88-4b97-9f9a-0918538885eb": {
+      "id": "79c4107e-1b88-4b97-9f9a-0918538885eb",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "scene_number": 4,
+      "title": "Living Bridges and Ancient Earth",
+      "duration": 4.5,
+      "description": "The protagonists trek across an ancient living root bridge woven seamlessly over a sparkling river. One traveler lifts a vintage 35mm camera to capture candid smiles while fingertips graze wet lichens and droplets hanging from tree canopies.",
+      "subject": "Adventurers traversing a living root bridge deep within Cherrapunji jungle foliage.",
+      "camera": "Medium tracking shot following footsteps across braided roots, transitioning to an intimate waist-level shot.",
+      "lighting": "Dappled canopy daylight with gentle rim lighting on rain jackets and lush vegetation.",
+      "transition": "Fast motion pan upwards following rising clouds into open sky.",
+      "energy_level": "high",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T09:02:10.560Z",
+      "updated_at": "2026-09-26T09:09:08.390Z",
+      "image_url": "/api/storage/images/f1e3b468-03e5-4735-a33d-faca103d2d40.jpg",
+      "image_asset_id": "images/f1e3b468-03e5-4735-a33d-faca103d2d40.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.\nColor Direction: #121A16, #2D4F3B, #487968, #8BA499, #D87342, #E2ECE9\nLighting Architecture: Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.\nCamera Language: Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.\nGlobal Environment: Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"ESCAPE NORTH Travel Experience\". Details: Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.. Visual Features: Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.. Color: Forest Slate, Rust Terracotta, and Mist White.\n- Character: \"Aarav\". Description: Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.. Role: The thoughtful city escapee whose perspective anchors the narrative transition..\n- Character: \"Maya\". Description: Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.. Role: The adventurous companion seeking tactile, real-world connection and spontaneous discovery..\n- Key Environment: \"Urban Congestion Corridor\". Atmosphere: Claustrophobic, relentless, damp, and hurried.. Details: Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows..\n- Key Environment: \"East Khasi Hills Serpentine Pass\". Atmosphere: Expansive, purifying, and dramatic.. Details: Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees..\n- Key Environment: \"Nohkalikai Gorge & Plunge Pool\". Atmosphere: Majestic, thunderous, and awe-inspiring.. Details: Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices..\n- Key Environment: \"Nongriat Living Root Bridge Trail\". Atmosphere: Timeless, organic, and deeply grounded.. Details: Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns..\n- Key Environment: \"Laitlum Canyons Ridge\". Atmosphere: Transcendent, silent, peaceful, and sublime.. Details: Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 4 - \"Living Bridges and Ancient Earth\"\nSubject: Adventurers traversing a living root bridge deep within Cherrapunji jungle foliage.\nScene Action / Narrative: The protagonists trek across an ancient living root bridge woven seamlessly over a sparkling river. One traveler lifts a vintage 35mm camera to capture candid smiles while fingertips graze wet lichens and droplets hanging from tree canopies.\nCamera Framing & Motion: Medium tracking shot following footsteps across braided roots, transitioning to an intimate waist-level shot.\nLighting Design: Dappled canopy daylight with gentle rim lighting on rain jackets and lush vegetation.\nAtmospheric Energy: high\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
+    },
+    "ffebe046-3842-4d02-9311-34903eba7ea5": {
+      "id": "ffebe046-3842-4d02-9311-34903eba7ea5",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "scene_number": 5,
+      "title": "The Endless Horizon",
+      "duration": 4,
+      "description": "The travelers stand perched on a panoramic mountain precipice above a vast valley filled with moving cloud blankets. The camera slowly cranes back and rises, revealing their minuscule silhouette against the sublime Meghalaya landscape as the brand typography emerges.",
+      "subject": "Silhouetted travelers on the cliff edge looking out over the expansive sea of clouds.",
+      "camera": "Slow backward crane pullback pulling out to an ultra-wide panoramic vista.",
+      "lighting": "Ethereal golden-hour glow breaking through the cloud line with deep twilight blue valley beneath.",
+      "transition": "Slow fade to elegant minimal slate featuring typography: ESCAPE NORTH.",
+      "energy_level": "climax",
+      "is_locked": false,
+      "status": "completed",
+      "created_at": "2026-09-26T09:02:10.560Z",
+      "updated_at": "2026-09-26T09:09:11.598Z",
+      "image_url": "/api/storage/images/6fffe948-0734-4f92-b5b9-84c43bb99c96.jpg",
+      "image_asset_id": "images/6fffe948-0734-4f92-b5b9-84c43bb99c96.jpg",
+      "prompt_used": "MASTER VISUAL CONTINUITY & PRODUCTION DIRECTIVE:\nProject Aesthetic: High-end cinematic travelogue shot on ARRI Alexa Mini LF with anamorphic lenses; organic film grain, shallow depth of field for emotional beats, and pristine high-resolution focus on dramatic nature elements.\nColor Direction: #121A16, #2D4F3B, #487968, #8BA499, #D87342, #E2ECE9\nLighting Architecture: Naturalistic diffused daylight dominated by soft overcast skies, volumetric cloud breaks, luminous water spray bounces, and warm twilight rim lights.\nCamera Language: Intentional juxtaposition between restrained, shallow framing in urban spaces and expansive, flowing, high-dynamic-range gimbal and drone tracking in Meghalaya.\nGlobal Environment: Subtropical highland rainforest, wet limestone gorges, dramatic cliff faces, sweeping cloud inversions, and moss-draped ancient root networks.\n\nHERO ASSETS FOR VISUAL CONTINUITY (MANDATORY ACCURACY):\n- Hero Product: \"ESCAPE NORTH Travel Experience\". Details: Bespoke experiential travel journey curated across Meghalaya, featuring guided off-grid expeditions, boutique eco-stays, and immersive nature encounters.. Visual Features: Premium travel badge, minimalist typography, branded rugged expedition vehicle accents, and bespoke topographic travel itinerary map.. Color: Forest Slate, Rust Terracotta, and Mist White.\n- Character: \"Aarav\". Description: Mid-20s creative professional with tousled black hair, sporting a muted olive-green technical rain jacket, waterproof trail trousers, and rugged hiking boots. Carries an understated canvas backpack.. Role: The thoughtful city escapee whose perspective anchors the narrative transition..\n- Character: \"Maya\". Description: Late-20s outdoor enthusiast and documentary photographer wearing a rust-orange waterproof shell jacket, dark trekking pants, and a vintage film camera slung across her chest.. Role: The adventurous companion seeking tactile, real-world connection and spontaneous discovery..\n- Key Environment: \"Urban Congestion Corridor\". Atmosphere: Claustrophobic, relentless, damp, and hurried.. Details: Gridlocked metropolitan artery bathed in wet asphalt reflections, traffic glare, and monsoon rain streaming on car windows..\n- Key Environment: \"East Khasi Hills Serpentine Pass\". Atmosphere: Expansive, purifying, and dramatic.. Details: Winding ribbon of black asphalt cutting through undulating hills, rolling fog banks, and tall subtropical pine trees..\n- Key Environment: \"Nohkalikai Gorge & Plunge Pool\". Atmosphere: Majestic, thunderous, and awe-inspiring.. Details: Monumental sheer limestone cliff face dropping into an intense emerald-turquoise pool shrouded in persistent mist vortices..\n- Key Environment: \"Nongriat Living Root Bridge Trail\". Atmosphere: Timeless, organic, and deeply grounded.. Details: Dense rainforest riverbank interlinked by massive entwined Ficus elastica roots over emerald water, surrounded by wild ferns..\n- Key Environment: \"Laitlum Canyons Ridge\". Atmosphere: Transcendent, silent, peaceful, and sublime.. Details: Vast undulating plateau ending abruptly in dramatic canyon drops with rolling cloud rivers drifting through deep green valleys..\n\nSPECIFIC SCENE STORYBOARD FRAME:\nScene Number: 5 - \"The Endless Horizon\"\nSubject: Silhouetted travelers on the cliff edge looking out over the expansive sea of clouds.\nScene Action / Narrative: The travelers stand perched on a panoramic mountain precipice above a vast valley filled with moving cloud blankets. The camera slowly cranes back and rises, revealing their minuscule silhouette against the sublime Meghalaya landscape as the brand typography emerges.\nCamera Framing & Motion: Slow backward crane pullback pulling out to an ultra-wide panoramic vista.\nLighting Design: Ethereal golden-hour glow breaking through the cloud line with deep twilight blue valley beneath.\nAtmospheric Energy: climax\n\n\nGenerate a cinematic, production-grade storyboard still frame adhering strictly to the visual style, color palette, and product specifications defined above. Photorealistic, hyper-detailed commercial cinematography."
     }
   },
   "video_versions": {
@@ -252,6 +503,63 @@
         "target_scene": 2
       },
       "created_at": "2026-09-26T07:43:48.320Z"
+    },
+    "adcdba2e-a7af-4673-ba84-92fb9fca2fa6": {
+      "id": "adcdba2e-a7af-4673-ba84-92fb9fca2fa6",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "version_number": 1,
+      "interaction_id": "v1_Chdjb3EzYXNUcUNycjVqdU1QN2F1LXlBRRIXY29xM2FzVHFDcnI1anVNUDdhdS15QUU",
+      "user_instruction": "Initial approved storyboard video synthesis",
+      "video_url": "/api/storage/videos/6b1425d6-98c3-4134-ad66-4f98cfe9d035.mp4",
+      "video_asset_id": "videos/6b1425d6-98c3-4134-ad66-4f98cfe9d035.mp4",
+      "duration": 20,
+      "aspect_ratio": "16:9",
+      "model": "gemini-omni-1.1-flash",
+      "parameters": {
+        "aspect_ratio": "16:9",
+        "duration": 20,
+        "promptLength": 4775,
+        "referenceImagesCount": 5
+      },
+      "created_at": "2026-09-26T09:03:51.247Z"
+    },
+    "c15716b1-baa0-4d5b-b0f5-86fb9f99e46f": {
+      "id": "c15716b1-baa0-4d5b-b0f5-86fb9f99e46f",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "version_number": 2,
+      "parent_version_id": "adcdba2e-a7af-4673-ba84-92fb9fca2fa6",
+      "interaction_id": "v1_Chdjb3EzYXNUcUNycjVqdU1QN2F1LXlBRRIXOFlxM2FzYlhPT2FkanVNUDFJaUUyQXc",
+      "user_instruction": "make this video 30 seconds long",
+      "video_url": "/api/storage/videos/b9dbedff-5722-4e0b-9d00-3a03d647836f.mp4",
+      "video_asset_id": "videos/b9dbedff-5722-4e0b-9d00-3a03d647836f.mp4",
+      "duration": 20,
+      "aspect_ratio": "16:9",
+      "model": "gemini-omni-1.1-flash",
+      "parameters": {
+        "parent_version_id": "adcdba2e-a7af-4673-ba84-92fb9fca2fa6",
+        "instruction": "make this video 30 seconds long",
+        "target_scene": null
+      },
+      "created_at": "2026-09-26T09:05:59.327Z"
+    },
+    "f02e9829-31b8-45a2-8149-afdaefa0cdc7": {
+      "id": "f02e9829-31b8-45a2-8149-afdaefa0cdc7",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "version_number": 3,
+      "parent_version_id": "c15716b1-baa0-4d5b-b0f5-86fb9f99e46f",
+      "interaction_id": "v1_Chdjb3EzYXNUcUNycjVqdU1QN2F1LXlBRRIXc0l5M2FzYnRPdDdkZzhVUDRzMy1zQWM",
+      "user_instruction": "add the current music and make the video 30 seconds long",
+      "video_url": "/api/storage/videos/a9b1ee30-6a43-4e92-a6c2-ec4a1f937644.mp4",
+      "video_asset_id": "videos/a9b1ee30-6a43-4e92-a6c2-ec4a1f937644.mp4",
+      "duration": 20,
+      "aspect_ratio": "16:9",
+      "model": "gemini-omni-1.1-flash",
+      "parameters": {
+        "parent_version_id": "c15716b1-baa0-4d5b-b0f5-86fb9f99e46f",
+        "instruction": "add the current music and make the video 30 seconds long",
+        "target_scene": null
+      },
+      "created_at": "2026-09-26T09:13:25.316Z"
     }
   },
   "video_edits": {
@@ -264,6 +572,24 @@
       "target_scene_number": 2,
       "ai_interpretation": "Updated scene execution according to directive: \"Make scene 2 darker and give the camera a low-angle movement while keeping the motorcycle design unchanged.\", preserving hero product aesthetics and timeline pacing.",
       "timestamp": "2026-09-26T07:43:48.321Z"
+    },
+    "974e47a0-b35a-4d25-a3ff-63efa0fcfa92": {
+      "id": "974e47a0-b35a-4d25-a3ff-63efa0fcfa92",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "video_version_id": "c15716b1-baa0-4d5b-b0f5-86fb9f99e46f",
+      "instruction": "make this video 30 seconds long",
+      "target_scope": "global",
+      "ai_interpretation": "Updated scene execution according to directive: \"make this video 30 seconds long\", preserving hero product aesthetics and timeline pacing.",
+      "timestamp": "2026-09-26T09:05:59.328Z"
+    },
+    "d2e5916b-7144-4da1-8c5a-797518b77f6f": {
+      "id": "d2e5916b-7144-4da1-8c5a-797518b77f6f",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "video_version_id": "f02e9829-31b8-45a2-8149-afdaefa0cdc7",
+      "instruction": "add the current music and make the video 30 seconds long",
+      "target_scope": "global",
+      "ai_interpretation": "Updated scene execution according to directive: \"add the current music and make the video 30 seconds long\", preserving hero product aesthetics and timeline pacing.",
+      "timestamp": "2026-09-26T09:13:25.317Z"
     }
   },
   "audio_versions": {
@@ -305,6 +631,45 @@
         "parent_version_id": "d34d11bf-fa42-4611-8ff9-3a1037094070"
       },
       "created_at": "2026-09-26T07:39:49.710Z"
+    },
+    "6ce663ca-93af-45af-9ba0-9bf596db6dc7": {
+      "id": "6ce663ca-93af-45af-9ba0-9bf596db6dc7",
+      "project_id": "61749fd0-9805-443c-9d2c-25f18343b269",
+      "version_number": 1,
+      "user_instruction": "make the music more peaceful\n",
+      "mood": "Cinematic Futuristic",
+      "energy_level": "high",
+      "audio_url": "/api/storage/audio/08fd5790-cc66-470b-b1f5-0c714473b650.mp3",
+      "audio_asset_id": "audio/08fd5790-cc66-470b-b1f5-0c714473b650.mp3",
+      "duration": 20,
+      "model": "lyria-3-clip-preview",
+      "parameters": {
+        "mood": "Cinematic Futuristic",
+        "energy_level": "high",
+        "user_instruction": "make the music more peaceful\n",
+        "parent_version_id": null
+      },
+      "created_at": "2026-09-26T09:10:14.666Z"
+    },
+    "7c9c9c77-794d-40fd-9a61-4e974cf5e8a6": {
+      "id": "7c9c9c77-794d-40fd-9a61-4e974cf5e8a6",
+      "project_id": "c5822962-677c-4be7-ab60-a505b92e91ae",
+      "version_number": 3,
+      "parent_version_id": "cee90460-1d3e-4667-8659-21e5b3442732",
+      "user_instruction": "Electronic cyber synth score with heavy bass drop on launch",
+      "mood": "Cinematic Futuristic",
+      "energy_level": "high",
+      "audio_url": "/api/storage/audio/d926bfec-8707-43de-9077-423969c4bc23.mp3",
+      "audio_asset_id": "audio/d926bfec-8707-43de-9077-423969c4bc23.mp3",
+      "duration": 20,
+      "model": "lyria-3-clip-preview",
+      "parameters": {
+        "mood": "Cinematic Futuristic",
+        "energy_level": "high",
+        "user_instruction": "Electronic cyber synth score with heavy bass drop on launch",
+        "parent_version_id": "cee90460-1d3e-4667-8659-21e5b3442732"
+      },
+      "created_at": "2026-09-26T09:16:18.192Z"
     }
   },
   "exports": {
